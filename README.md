@@ -1,5 +1,6 @@
 # typescript-utilities-guide
-a list of typescript helper libraries
+
+a list of typescript helper libraries. advanced guides in `typescript-cheatsheets` will assume knowledge of these and refer people here.
 
 ## Utility Types
 
