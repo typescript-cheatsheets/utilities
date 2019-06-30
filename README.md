@@ -32,7 +32,7 @@ You can also supply string literals to omit:
 ```ts
 type SettingsPageProps = Omit<
   ServerConfig,
-  'immutableSetting1' | 'invisibleSetting2'
+  "immutableSetting1" | "invisibleSetting2"
 >;
 ```
 
@@ -101,7 +101,6 @@ There also exist helper type libraries:
 
 - https://github.com/yousefed/typescript-json-schema
 - https://github.com/apollographql/apollo-tooling/tree/master/packages/apollo-codegen-typescript
-
 
 ## Data Structures
 
