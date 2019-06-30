@@ -91,6 +91,7 @@ There also exist helper type libraries:
 - [type-zoo](https://github.com/pelotom/type-zoo)
 - [typesafe-actions](https://github.com/piotrwitek/typesafe-actions)
 - [type-fest](https://github.com/sindresorhus/type-fest)
+- [tsdef](https://github.com/joonhocho/tsdef)
 
 ## Misc
 
