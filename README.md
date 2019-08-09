@@ -6,6 +6,8 @@ a list of typescript helper libraries. advanced guides in `typescript-cheatsheet
 
 Be familiar with the [Utility Types that ship with TS](https://codewithstyle.info/Comprehensive-list-of-useful-built-in-types-in-TypeScript/). On top of that, here are handy Utility Types often used by TS practitioners, with explanation on what they do and how they can help. We will assume knowledge of [mapped types and conditional types](https://mariusschulz.com/blog/series/typescript-evolution) like `Exclude<T, U>` and `ReturnType<T>` but try to build progressively upon them.
 
+> Note: If you are new to conditional types, I highly recommend [DJSheldrick's blogpost and talk on Conditional Types in TypeScript](https://artsy.github.io/blog/2018/11/21/conditional-types-in-typescript/)
+
 <details>
   <summary>
     <code>Omit&lt;T, K extends keyof T&gt;</code>: Subtract keys from one interface from the other.
