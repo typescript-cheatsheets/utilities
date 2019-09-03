@@ -94,6 +94,9 @@ There also exist helper type libraries:
 - [typesafe-actions](https://github.com/piotrwitek/typesafe-actions)
 - [type-fest](https://github.com/sindresorhus/type-fest)
 - [tsdef](https://github.com/joonhocho/tsdef)
+- [rex-tils](https://github.com/Hotell/rex-tils)
+
+seriously, check some of these out, they represent a ton of accumulated typescript experience.
 
 ## Misc
 
