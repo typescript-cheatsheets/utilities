@@ -98,6 +98,10 @@ There also exist helper type libraries:
 
 seriously, check some of these out, they represent a ton of accumulated typescript experience.
 
+## Type Testing
+
+- https://github.com/SamVerschueren/tsd: Check TypeScript type definitions
+
 ## Misc
 
 - https://github.com/urish/typewiz Automatically discover and add missing types in your TypeScript code
