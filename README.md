@@ -101,6 +101,10 @@ seriously, check some of these out, they represent a ton of accumulated typescri
 ## Type Testing
 
 - https://github.com/SamVerschueren/tsd: Check TypeScript type definitions
+- https://github.com/aikoven/typings-tester#readme
+- https://github.com/ikatyang/dts-jest
+- https://github.com/SamVerschueren/tsd
+- https://github.com/azz/jest-runner-tsc
 
 ## Misc
 
