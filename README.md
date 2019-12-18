@@ -96,6 +96,7 @@ There also exist helper type libraries:
 - [tsdef](https://github.com/joonhocho/tsdef)
 - [rex-tils](https://github.com/Hotell/rex-tils)
 - [ts-toolbelt](https://github.com/pirix-gh/ts-toolbelt) ([Reddit](https://www.reddit.com/r/typescript/comments/c2nq7k/higher_type_safety_for_typescript_with_tstoolbelt/))
+- [tiny-types](https://github.com/jan-molak/tiny-types)
 
 seriously, check some of these out, they represent a ton of accumulated typescript experience.
 
@@ -106,6 +107,12 @@ seriously, check some of these out, they represent a ton of accumulated typescri
 - https://github.com/ikatyang/dts-jest
 - https://github.com/SamVerschueren/tsd
 - https://github.com/azz/jest-runner-tsc
+
+## TypeScript Plugins
+
+You can write plugins to modify typescript syntax itself. this is ADVANCED and not exactly recommended but here are some examples if you need them:
+
+- https://github.com/rimeto/ts-optchain/
 
 ## Misc
 
