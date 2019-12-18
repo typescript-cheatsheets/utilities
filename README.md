@@ -109,14 +109,14 @@ seriously, check some of these out, they represent a ton of accumulated typescri
 ## Misc
 
 - https://github.com/urish/typewiz Automatically discover and add missing types in your TypeScript code
-- https://github.com/microsoft/rushstack/tree/master/apps/api-extractor 
+- https://github.com/microsoft/rushstack/tree/master/apps/api-extractor
 
 API Extractor provides an integrated, professional-quality solution for all these problems. It is invoked at build time by your toolchain and leverages the TypeScript compiler engine to:
 
 - Detect a project's exported API surface
 - Capture the contracts in a concise report designed to facilitate review
 - Warn about common mistakes (e.g. missing exports, inconsistent visibility, etc.)
-- Generate *.d.ts rollups with trimming according to release type
+- Generate \*.d.ts rollups with trimming according to release type
 - Output API documentation in a portable format that's easy to integrate with your content pipeline
 
 ## Codegen from TypeScript
