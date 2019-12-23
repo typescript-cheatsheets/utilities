@@ -4,7 +4,6 @@ a list of typescript helper libraries. advanced guides in `typescript-cheatsheet
 
 There is a stage in every TypeScript journey where you struggle getting the types you want and eventually find a lifesaver blogpost like [TypeScript Types You Should Know About](https://xpbytes.com/articles/types-you-should-know-about-typescript/). This cheatsheet accumulates them.
 
-
 ## Utility Types
 
 Be familiar with the [Utility Types that ship with TS](https://codewithstyle.info/Comprehensive-list-of-useful-built-in-types-in-TypeScript/). On top of that, here are handy Utility Types often used by TS practitioners, with explanation on what they do and how they can help. We will assume knowledge of [mapped types and conditional types](https://mariusschulz.com/blog/series/typescript-evolution) like `Exclude<T, U>` and `ReturnType<T>` but try to build progressively upon them.
