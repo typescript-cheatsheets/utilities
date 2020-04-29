@@ -6,41 +6,9 @@ There is a stage in every TypeScript journey where you struggle getting the type
 
 ## Utility Types
 
-Be familiar with the [Utility Types that ship with TS](https://codewithstyle.info/Comprehensive-list-of-useful-built-in-types-in-TypeScript/). On top of that, here are handy Utility Types often used by TS practitioners, with explanation on what they do and how they can help. We will assume knowledge of [mapped types and conditional types](https://mariusschulz.com/blog/series/typescript-evolution) like `Exclude<T, U>` and `ReturnType<T>` but try to build progressively upon them.
+Be familiar with the [Utility Types that ship with TS](https://www.typescriptlang.org/docs/handbook/utility-types.html). On top of that, here are handy Utility Types often used by TS practitioners, with explanation on what they do and how they can help. We will assume knowledge of [mapped types and conditional types](https://mariusschulz.com/blog/series/typescript-evolution) like `Exclude<T, U>` and `ReturnType<T>` but try to build progressively upon them.
 
 > Note: If you are new to conditional types, I highly recommend [DJSheldrick's blogpost and talk on Conditional Types in TypeScript](https://artsy.github.io/blog/2018/11/21/conditional-types-in-typescript/)
-
-<details>
-  <summary>
-    <code>Omit&lt;T, K extends keyof T&gt;</code>: Subtract keys from one interface from the other.
-  </summary>
-  
-```ts
-/**
- * Subtract keys from one interface from the other.
- *
- * @example
- * interface One { one: string }
- * interface Three { one: string, two: string }
- *
- * type Two = Omit<Three, keyof One>;
- *
- * // The type of Two will be
- * interface Two { two: string }
- */
-type Omit<T, K extends keyof T> = Pick<T, Exclude<keyof T, K>>;
-```
-
-You can also supply string literals to omit:
-
-```ts
-type SettingsPageProps = Omit<
-  ServerConfig,
-  "immutableSetting1" | "invisibleSetting2"
->;
-```
-
-</details>
 
 <details>
   <summary>
