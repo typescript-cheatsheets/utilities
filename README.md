@@ -86,6 +86,14 @@ seriously, check some of these out, they represent a ton of accumulated typescri
 - https://github.com/ikatyang/dts-jest
 - https://github.com/SamVerschueren/tsd
 - https://github.com/azz/jest-runner-tsc
+- https://github.com/dsherret/conditional-type-checks
+  * `IsNullable<T>` - Checks if `T` is possibly `null` or `undefined`.
+  * `IsExact<T, U>` - Checks if `T` exactly matches `U`.
+  * `Has<T, U>` - Checks if `T` has `U`.
+  * `NotHas<T, U>` - Checks if `T` does not have `U`.
+  * `IsAny<T>` - Checks if `T` is the `any` type.
+  * `IsNever<T>` - Checks if `T` is the `never` type.
+  * `IsUnknown<T>` - Checks if `T` is the `unknown` type.
 - https://github.com/microsoft/dtslint ([Intro to dtslint](https://www.youtube.com/watch?v=nygcFEwOG8w&feature=share))
 
 ## TypeScript Plugins
