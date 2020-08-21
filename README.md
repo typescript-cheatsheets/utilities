@@ -104,6 +104,7 @@ You can write plugins to modify typescript syntax itself. this is ADVANCED and n
 
 ## Misc
 
+- [sourcegraph chrome extension](https://chrome.google.com/webstore/detail/sourcegraph/dgjhfomjieaadpoljlnidmbgkdffpack?hl=en) - hover over types in GitHub and jump to definition/references
 - https://github.com/urish/typewiz Automatically discover and add missing types in your TypeScript code
 - https://github.com/microsoft/rushstack/tree/master/apps/api-extractor
 
