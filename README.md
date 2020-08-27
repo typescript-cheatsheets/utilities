@@ -107,6 +107,9 @@ You can write plugins to modify typescript syntax itself. this is ADVANCED and n
 - [sourcegraph chrome extension](https://chrome.google.com/webstore/detail/sourcegraph/dgjhfomjieaadpoljlnidmbgkdffpack?hl=en) - hover over types in GitHub and jump to definition/references
 - https://github.com/urish/typewiz Automatically discover and add missing types in your TypeScript code
 - https://github.com/microsoft/rushstack/tree/master/apps/api-extractor
+- You can find more [recommended TS config here](https://github.com/tsconfig/bases). 
+
+
 
 API Extractor provides an integrated, professional-quality solution for all these problems. It is invoked at build time by your toolchain and leverages the TypeScript compiler engine to:
 
