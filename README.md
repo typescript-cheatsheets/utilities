@@ -119,6 +119,19 @@ API Extractor provides an integrated, professional-quality solution for all thes
 - Generate \*.d.ts rollups with trimming according to release type
 - Output API documentation in a portable format that's easy to integrate with your content pipeline
 
+example https://github.com/framer/api-docs/tree/master/api 
+
+## documentation
+
+- https://github.com/phryneas/remark-typescript-tools
+
+* it transpiles TypeScript code examples to JavaScript
+* it typechecks your TypeScript code examples
+* it allows you to include Docblocks from your sourcecode
+
+https://twitter.com/phry/status/1302662810707660801?s=20
+
+
 ## Codegen from TypeScript
 
 - https://github.com/yousefed/typescript-json-schema
