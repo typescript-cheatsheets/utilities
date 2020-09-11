@@ -131,6 +131,12 @@ example https://github.com/framer/api-docs/tree/master/api
 
 https://twitter.com/phry/status/1302662810707660801?s=20
 
+## monorepo build tooling
+
+- https://rushstack.io/ - Specific strategy that integrates popular tools like NodeJS, TypeScript, ESLint, Prettier, Webpack, Jest for large scale monorepos from Microsoft
+- https://nx.dev/react/guides/js-and-ts - Nx is a general-purpose build system and a general-purpose CLI. It works with JavaScript, TypeScript, Java, C#, Go, etc.. The core plugins Nx comes with do work best with JavaScript or TypeScript.
+- https://blog.mgechev.com/2018/11/19/introduction-bazel-typescript-tutorial/ - Bazel is a powerful tool which can keep track of the dependencies between different packages and build targets. For simplicity, we can think of a build target as a build rule - for example, “build a TypeScript library”
+
 
 ## Codegen from TypeScript
 
