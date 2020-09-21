@@ -102,6 +102,12 @@ You can write plugins to modify typescript syntax itself. this is ADVANCED and n
 
 - https://github.com/rimeto/ts-optchain/
 
+## types to runtime
+
+
+- io-ts
+- https://github.com/nokia/ts-serialize-closures
+
 ## Misc
 
 - [sourcegraph chrome extension](https://chrome.google.com/webstore/detail/sourcegraph/dgjhfomjieaadpoljlnidmbgkdffpack?hl=en) - hover over types in GitHub and jump to definition/references
