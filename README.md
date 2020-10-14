@@ -105,8 +105,9 @@ You can write plugins to modify typescript syntax itself. this is ADVANCED and n
 ## types to runtime
 
 
-- io-ts
+- https://github.com/gcanti/io-ts Runtime type system for IO decoding/encoding
 - https://github.com/nokia/ts-serialize-closures
+- https://github.com/YousefED/typescript-json-schema Generate json-schemas from your Typescript sources.
 
 ## Misc
 
