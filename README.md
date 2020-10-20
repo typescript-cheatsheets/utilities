@@ -115,6 +115,7 @@ You can write plugins to modify typescript syntax itself. this is ADVANCED and n
 - https://github.com/urish/typewiz Automatically discover and add missing types in your TypeScript code
 - https://github.com/microsoft/rushstack/tree/master/apps/api-extractor
 - You can find more [recommended TS config here](https://github.com/tsconfig/bases). 
+- ts-prune - Find dead code and dead types in your project https://effectivetypescript.com/2020/10/20/tsprune/
 
 
 
