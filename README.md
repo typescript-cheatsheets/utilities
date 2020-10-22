@@ -116,6 +116,9 @@ You can write plugins to modify typescript syntax itself. this is ADVANCED and n
 - https://github.com/microsoft/rushstack/tree/master/apps/api-extractor
 - You can find more [recommended TS config here](https://github.com/tsconfig/bases). 
 - ts-prune - Find dead code and dead types in your project https://effectivetypescript.com/2020/10/20/tsprune/
+- crazy TS things for science
+  - https://github.com/ronami/meta-typing
+  - https://twitter.com/buildsghost/status/1301976526603206657
 
 
 
