@@ -119,6 +119,7 @@ You can write plugins to modify typescript syntax itself. this is ADVANCED and n
 - crazy TS things for science
   - https://github.com/ronami/meta-typing
   - https://twitter.com/buildsghost/status/1301976526603206657
+  - https://github.com/ronami/typelang
 
 
 
