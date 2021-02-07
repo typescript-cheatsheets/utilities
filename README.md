@@ -13,6 +13,8 @@ There is a stage in every TypeScript journey where you struggle getting the type
 - [dts-gen](https://github.com/microsoft/dts-gen) - `dts-gen` is a tool that generates TypeScript definition files (.d.ts) from any JavaScript object.
 
 
+JSON to TS type inference https://jvilk.com/MakeTypes/
+
 ## Utility Types
 
 Be familiar with the [Utility Types that ship with TS](https://www.typescriptlang.org/docs/handbook/utility-types.html). On top of that, here are handy Utility Types often used by TS practitioners, with explanation on what they do and how they can help. We will assume knowledge of [mapped types and conditional types](https://mariusschulz.com/blog/series/typescript-evolution) like `Exclude<T, U>` and `ReturnType<T>` but try to build progressively upon them.
