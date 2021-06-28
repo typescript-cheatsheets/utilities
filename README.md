@@ -78,6 +78,7 @@ There also exist helper type libraries:
 - [rex-tils](https://github.com/Hotell/rex-tils)
 - [ts-toolbelt](https://github.com/pirix-gh/ts-toolbelt) ([Reddit](https://www.reddit.com/r/typescript/comments/c2nq7k/higher_type_safety_for_typescript_with_tstoolbelt/))
 - [tiny-types](https://github.com/jan-molak/tiny-types)
+- [ts-essentials](https://github.com/krzkaczor/ts-essentials)
 
 seriously, check some of these out, they represent a ton of accumulated typescript experience.
 
