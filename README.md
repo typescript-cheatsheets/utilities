@@ -79,6 +79,7 @@ There also exist helper type libraries:
 - [ts-toolbelt](https://github.com/pirix-gh/ts-toolbelt) ([Reddit](https://www.reddit.com/r/typescript/comments/c2nq7k/higher_type_safety_for_typescript_with_tstoolbelt/))
 - [tiny-types](https://github.com/jan-molak/tiny-types)
 - [ts-essentials](https://github.com/krzkaczor/ts-essentials)
+- [nominal](https://github.com/Coder-Spirit/nominal)
 
 seriously, check some of these out, they represent a ton of accumulated typescript experience.
 
