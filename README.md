@@ -79,6 +79,7 @@ There also exist helper type libraries:
 - [rex-tils](https://github.com/Hotell/rex-tils)
 - [tiny-types](https://github.com/jan-molak/tiny-types)
 - [ts-essentials](https://github.com/krzkaczor/ts-essentials)
+- [nominal](https://github.com/Coder-Spirit/nominal)
 
 seriously, check some of these out, they represent a ton of accumulated typescript experience.
 
